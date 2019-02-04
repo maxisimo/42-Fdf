@@ -11,6 +11,6 @@ not...
 # Run the project
 make
 
-./Fdf <file>
+./Fdf <file.fdf>
   
 # Rate : 119 / 100
