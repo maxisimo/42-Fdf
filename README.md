@@ -7,3 +7,10 @@ It’s your turn today to modelize in 3D some magnificent landscapes, imaginary 
 not...
 
 ![alt tag](https://user-images.githubusercontent.com/34480775/52214091-235a4c00-2891-11e9-9639-98aac4ef1301.png)
+
+# Run the project
+make
+
+./Fdf <file>
+  
+# Rate : 113 / 100
