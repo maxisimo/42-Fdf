@@ -13,4 +13,4 @@ make
 
 ./Fdf <file>
   
-# Rate : 113 / 100
+# Rate : 119 / 100
