@@ -7,4 +7,4 @@ l’activité tectonique est importante permet de mieux comprendre ces phénomè
 A vous aujourd’hui de vous essayer à cette pratique et de modéliser de magnifiques
 terrains en trois dimensions, imaginaires ou non...
 
-![alt tag][https://user-images.githubusercontent.com/34480775/52214091-235a4c00-2891-11e9-9639-98aac4ef1301.png]
+![alt tag](https://user-images.githubusercontent.com/34480775/52214091-235a4c00-2891-11e9-9639-98aac4ef1301.png)
